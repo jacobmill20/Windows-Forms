@@ -1,0 +1,30 @@
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.exe
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.deps.json
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.runtimeconfig.json
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.dll
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.pdb
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.Form1.resources
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.dll
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.pdb
+C:\Users\Jacob\source\repos\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.exe
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.deps.json
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.dll
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\bin\Debug\netcoreapp3.1\ConversionLenUnit.pdb
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.Form1.resources
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.dll
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.pdb
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\ConversionLenUnit\ConversionLenUnit\obj\Debug\netcoreapp3.1\ConversionLenUnit.genruntimeconfig.cache

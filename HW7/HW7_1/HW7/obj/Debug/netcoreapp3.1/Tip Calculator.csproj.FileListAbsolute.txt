@@ -1,0 +1,14 @@
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\Tip Calculator.exe
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\Tip Calculator.deps.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\Tip Calculator.runtimeconfig.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\Tip Calculator.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\Tip Calculator.dll
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\Tip Calculator.pdb
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.HW7_1.resources
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\Tip Calculator.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\Tip Calculator.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\Tip Calculator.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\Tip Calculator.dll
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\Tip Calculator.pdb
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\Tip Calculator.genruntimeconfig.cache

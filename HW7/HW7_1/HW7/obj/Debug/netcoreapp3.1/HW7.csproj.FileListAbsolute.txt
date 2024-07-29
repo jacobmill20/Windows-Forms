@@ -1,0 +1,16 @@
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.exe
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.deps.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.runtimeconfig.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.dll
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.pdb
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.dll
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.pdb
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.genruntimeconfig.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.HW7_1.resources
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\TipCalculator.HW7_1.resources

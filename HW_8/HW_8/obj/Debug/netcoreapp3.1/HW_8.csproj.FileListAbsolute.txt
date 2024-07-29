@@ -1,0 +1,15 @@
+C:\Users\Jacob\source\repos\HW_8\HW_8\bin\Debug\netcoreapp3.1\HW_8.exe
+C:\Users\Jacob\source\repos\HW_8\HW_8\bin\Debug\netcoreapp3.1\HW_8.deps.json
+C:\Users\Jacob\source\repos\HW_8\HW_8\bin\Debug\netcoreapp3.1\HW_8.runtimeconfig.json
+C:\Users\Jacob\source\repos\HW_8\HW_8\bin\Debug\netcoreapp3.1\HW_8.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\HW_8\HW_8\bin\Debug\netcoreapp3.1\HW_8.dll
+C:\Users\Jacob\source\repos\HW_8\HW_8\bin\Debug\netcoreapp3.1\HW_8.pdb
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.Form1.resources
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.dll
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.pdb
+C:\Users\Jacob\source\repos\HW_8\HW_8\obj\Debug\netcoreapp3.1\HW_8.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\TipCalculator.HW7.resources
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\TipCalculator.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache

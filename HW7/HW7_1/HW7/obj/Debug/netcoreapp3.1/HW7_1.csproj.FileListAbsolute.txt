@@ -1,0 +1,29 @@
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7_1.exe
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7_1.deps.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7_1.runtimeconfig.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7_1.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7_1.dll
+C:\Users\Jacob\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7_1.pdb
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.HW7_1.resources
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7_1.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7_1.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7_1.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7_1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7_1.dll
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7_1.pdb
+C:\Users\Jacob\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7_1.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\bin\Debug\netcoreapp3.1\HW7_1.exe
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\bin\Debug\netcoreapp3.1\HW7_1.deps.json
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\bin\Debug\netcoreapp3.1\HW7_1.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\bin\Debug\netcoreapp3.1\HW7_1.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\bin\Debug\netcoreapp3.1\HW7_1.dll
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\bin\Debug\netcoreapp3.1\HW7_1.pdb
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7.HW7_1.resources
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7_1.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7_1.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7_1.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7_1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7_1.dll
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7_1.pdb
+C:\Users\jacob\OneDrive\Desktop\Old Semesters\Fall 2021\HW7\HW7_1\HW7\obj\Debug\netcoreapp3.1\HW7_1.genruntimeconfig.cache
